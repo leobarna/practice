@@ -1,5 +1,4 @@
-project info
-re-do Bootcamp project
+Redo Bootcamp project
 
 Year :
 
