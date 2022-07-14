@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: "Quicksand", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #d8d8d8;
+  color: #fff;
+}
+.nav-links{
+   display: flex;
+}
+.menu{
+    display: flex;
+  gap:10%;
+}
+.logo {
+  font-size: 32px;
+}
+footer {
+  margin-top: auto;
+}
